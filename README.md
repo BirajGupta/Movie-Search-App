@@ -11,4 +11,6 @@ The following is a Movie search app using omdb API.
 2.Using Node.js run the server using command.<br>
 <br>
                            "node app.js"<br>
-3.Search for "localhost3000/"
+                           <br>
+3.Search for "localhost3000/".
+
