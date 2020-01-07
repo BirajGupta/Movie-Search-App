@@ -1,5 +1,6 @@
 # Movie-Search-App-
-The following is a Movie search app using omdb API. 
+The following is a Movie search app using omdb API. <br>
+It gives the names of 10 movies according to the name of the country entered.
 
 ## Technologies Used-
 1.HTML,CSS ,JavaScript.<br>
